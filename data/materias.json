@@ -1,0 +1,39 @@
+{
+  "primaria": {
+    "grados": ["transicion", "primero", "segundo", "tercero", "cuarto", "quinto"],
+    "materias": [
+      "matematicas", "estadistica", "espanol", "ciencias_naturales",
+      "ingles", "sociales", "artistica", "educacion_fisica",
+      "etica", "religion", "informatica"
+    ]
+  },
+  "bachillerato": {
+    "sexto": [
+      "matematicas", "espanol", "ciencias_naturales", "ingles", "sociales",
+      "artistica", "educacion_fisica", "etica", "religion", "informatica"
+    ],
+    "septimo": [
+      "matematicas", "espanol", "ciencias_naturales", "ingles", "sociales",
+      "artistica", "educacion_fisica", "etica", "religion", "informatica",
+      "estadistica"
+    ],
+    "octavo": [
+      "algebra", "espanol", "biologia", "ingles", "sociales", "artistica",
+      "educacion_fisica", "etica", "religion", "informatica", "estadistica"
+    ],
+    "noveno": [
+      "algebra", "espanol", "biologia", "ingles", "sociales", "artistica",
+      "educacion_fisica", "etica", "religion", "informatica", "estadistica"
+    ],
+    "decimo": [
+      "trigonometria", "espanol", "quimica", "ingles", "filosofia",
+      "artistica", "educacion_fisica", "etica", "religion", "informatica",
+      "fisica_teorica", "economia"
+    ],
+    "once": [
+      "calculo", "espanol", "quimica", "ingles", "filosofia",
+      "artistica", "educacion_fisica", "etica", "religion", "informatica",
+      "fisica_teorica", "economia"
+    ]
+  }
+}

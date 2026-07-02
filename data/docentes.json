@@ -1,0 +1,18 @@
+[
+  {
+    "id": "doc001",
+    "nombre": "Nombre del docente",
+    "materia": "matematicas",
+    "grados": ["sexto", "septimo"],
+    "foto": "assets/img/docentes/doc001.jpg",
+    "descripcion": "Breve reseña profesional."
+  },
+  {
+    "id": "doc002",
+    "nombre": "Nombre del docente",
+    "materia": "espanol",
+    "grados": ["sexto", "septimo", "octavo"],
+    "foto": "assets/img/docentes/doc002.jpg",
+    "descripcion": "Breve reseña profesional."
+  }
+]
